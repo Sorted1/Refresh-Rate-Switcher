@@ -43,7 +43,7 @@ Download the latest precompiled `.exe` from the [Releases](https://github.com/So
 
 ```bash
 git clone https://github.com/Sorted1/Refresh-Rate-Switcher
-cd godlike-fuser-refresh\src
+cd Refresh-Rate-Switcher\src
 python main.py
 ```
 ## ⭐ Please Star the Repo!
