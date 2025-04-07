@@ -1,6 +1,5 @@
 # FPGA Fuser Refresh Rate Switcher
-[![Image of https://github.com/PVUL/repo-views-counter](https://github.com/PVUL/repo-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/Sorted1/Refresh-Rate-Switcher)
-
+<img title="repo views" src="https://sorted.wtf/fga-fuser-counter.php">
 🎮 A simple yet powerful command-line tool to change the refresh rate of your monitor — purpose-built for use with **FPGA Image Fusers** with **auto EDID pulling**.
 
 ---
